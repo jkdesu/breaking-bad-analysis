@@ -1,1 +1,10 @@
-Python libraries needed - nltk, pandas, matplotlib 
+nltk
+requests
+beautifulsoup4
+pandas
+textblob
+matplotlib
+seaborn
+numpy
+networkx
+wordcloud
